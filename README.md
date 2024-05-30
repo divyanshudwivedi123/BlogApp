@@ -6,6 +6,7 @@ This is a blogging web application inspired by Medium, built using a Cloudflare 
 - Cloudflare Workers
 - Hono
 - React
+- Tailwind CSS
 - TypeScript
 - PostgreSQL
 - Prisma
