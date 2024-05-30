@@ -1,2 +1,12 @@
-This is a medium like blogging web application that is using cloudfare serverless architecture.
-Tech Stack: CLoudfare workers, Hono, React, Typescript, PostgreSQL, Prisma, Zod. 
+# Medium-like Blogging Web Application
+
+This is a blogging web application inspired by Medium, built using a Cloudflare serverless architecture.
+
+## Tech Stack:
+- Cloudflare Workers
+- Hono
+- React
+- TypeScript
+- PostgreSQL
+- Prisma
+- Zod
