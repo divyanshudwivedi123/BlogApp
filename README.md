@@ -1,4 +1,4 @@
-# Medium-like Blogging Web Application
+# Serverless Medium-like Blogging Web Application
 
 This is a blogging web application inspired by Medium, built using a Cloudflare serverless architecture.
 
