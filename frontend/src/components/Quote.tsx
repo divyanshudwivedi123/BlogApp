@@ -4,13 +4,13 @@ export const Quote = () => {
         <div className="flex justify-center">
             <div className="max-w-lg">
                 <div className="text-3xl font-bold">
-                    BLOG NATION
+                    "Welcome to BLOG NATION !"
                 </div>
                 <div className="max-w-md text-xl font-semibold text-left mt-4">
-                    Developed By
+                    Divyanshu Dwivedi
                 </div>
                 <div className="max-w-md text-sm font-light text-slate-400">
-                    Divyanshu Dwivedi
+                    Web Developer
                 </div>
             </div>
         </div>
